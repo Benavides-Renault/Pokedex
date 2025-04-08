@@ -125,3 +125,4 @@ If you find this application useful, consider supporting its development:
 </div>
 EOF
 # Pokedex
+# Pokedex
